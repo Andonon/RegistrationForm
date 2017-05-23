@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Basic II
+    </title>
+  </head>
+  <body>
+  <h1>Here is a list of my favorite things:</h1>
+    <ul>
+      <li>Food</li>
+      <li>Bandwidth</li>
+      <li>Coffee</li>
+      <li>Beach
+      </li>
+    </ul>
+
+    <a href="http://www.google.com">Click here to go to Google</a>
+    <a href="www.google.com"> <!-- will this link work? -->
+    <img src="https://www.google.com/images/srpr/logo4w.png"></a>
+
+  </body>
+</html>
